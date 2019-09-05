@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Bungee|Hind|PT+Sans|Pacifico|Poppins|Lobster|Audiowide|Great+Vibes|Comfortaa|Orbitron|Tajawal|Livvic|Fira+Sans|Unica+One|Rajdhani");
+
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --wild-blue: #96ADC8;
+ --tea-green: #D7FFAB;
+ --unmellow-yellow: #FCFF6C;
+ --brown-yellow: #D89D6A;
+ --tuscan-red: #6D454C;
+ --spring-bud: #CACF85;
+ --sea-green: #8CBA80;
+ --des-cyan: #658E9C;
+ --nav-purple: #4D5382;
+ --pinapple: #514663;
+ --mummy-tomb: #808D8E;
+ --blue-bell: #A3A5C3;
+ --pastel-blue: #A9D2D5;
+ --columbis-blue: #C3DFE0;
+ --old-gold: #B8B42D;
+ --olivine: #9DAD6F;
+ --deep-taupe: #7D6D61;
+ --wenge: #5E574D;
+ --charlston-green: #2A2B2A;
+ --metal-sunburn: #A37C40;
+ --vivid-tangerine: #FFA987;
+ --linen: #F7EBE8;
+ --carmine-pink: #E54B4B;
+ --raisin-black: #1E1E24;
+ --rifle-green: #444140;
+ --rich-black: #07090F;
+ --great-vibes: 'Great Vibes', cursive;
+ --comfortaa: 'Comfortaa', cursive;
+ --orbitron: 'Orbitron', sans-serif;
+ --audiowide: 'Audiowide', cursive;
+ --rajdhani: 'Rajdhani', sans-serif;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    background-color: var(--old-gold);
+}
